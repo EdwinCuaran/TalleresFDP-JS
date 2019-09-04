@@ -1,0 +1,17 @@
+{
+  "name": "foo",
+  "version": "1.0.0",
+  "description": "Taller de listas y recursion",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Edwin Leonardo Cuaran",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^24.5.0"
+  },
+  "dependencies": {
+    "functional-light": "0.3.1"
+  }
+}
